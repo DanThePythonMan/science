@@ -1,0 +1,238 @@
+def eturn(symbol):
+  return globals()[f"el{symbol}"]()
+def el1():
+  return "H"
+def el2():
+  return "He"
+def el3():
+  return "Li"
+def el4():
+  return "Be"
+def el5():
+  return "B"
+def el6():
+  return "C"
+def el7():
+  return "N"
+def el8():
+  return "O"
+def el9():
+  return "F"
+def el10():
+  return "Ne"
+def el11():
+  return "Na"
+def el12():
+  return "Mg"
+def el13():
+  return "Al"
+def el14():
+  return "Si"
+def el15():
+  return "P"
+def el16():
+  return "S"
+def el17():
+  return "Cl"
+def el18():
+  return "Ar"
+def el19():
+  return "K"
+def el20():
+  return "Ca"
+def el21():
+  return "Sc"
+def el22():
+  return "Ti"
+def el23():
+  return "V"
+def el24():
+  return "Cr"
+def el25():
+  return "Mg"
+def el26():
+  return "Fe"
+def el27():
+  return "Co"
+def el28():
+  return "Ni"
+def el29():
+  return "Cu"
+def el30():
+  return "Zn"
+def el31():
+  return "Ga"
+def el32():
+  return "Ge"
+def el33():
+  return "As"
+def el34():
+  return "Se"
+def el35():
+  return "Br"
+def el36():
+  return "Kr"
+def el37():
+  return "Rb"
+def el38():
+  return "Sr"
+def el39():
+  return "Y"
+def el40():
+  return "Zr"
+def el41():
+  return "Nb"
+def el42():
+  return "Mo"
+def el43():
+  return "Tc"
+def el44():
+  return "Ru"
+def el45():
+  return "Rh"
+def el46():
+  return "Pd"
+def el47():
+  return "Ag"
+def el48():
+  return "Cd"
+def el49():
+  return "In"
+def el50():
+  return "Sn"
+def el51():
+  return "Sb"
+def el52():
+  return "Te"
+def el53():
+  return "I"
+def el54():
+  return "Xe"
+def el55():
+  return "Cs"
+def el56():
+  return "Ba"
+def el57():
+  return "La"
+def el58():
+  return "Ce"
+def el59():
+  return "Pr"
+def el60():
+  return "Nd"
+def el61():
+  return "Pm"
+def el62():
+  return "Sm"
+def el63():
+  return "Eu"
+def el64():
+  return "Gd"
+def el65():
+  return "Tb"
+def el66():
+  return "Dy"
+def el67():
+  return "Ho"
+def el68():
+  return "Er"
+def el69():
+  return "Tm"
+def el70():
+  return "Yb"
+def el71():
+  return "Lu"
+def el72():
+  return "Hf"
+def el73():
+  return "Ta"
+def el74():
+  return "W"
+def el75():
+  return "Re"
+def el76():
+  return "Os"
+def el77():
+  return "Ir"
+def el78():
+  return "Pt"
+def el79():
+  return "Au"
+def el80():
+  return "Hg"
+def el81():
+  return "Tl"
+def el82():
+  return "Pb"
+def el83():
+  return "Bi"
+def el84():
+  return "Po"
+def el85():
+  return "At"
+def el86():
+  return "Rn"
+def el87():
+  return "Fr"
+def el88():
+  return "Ra"
+def el89():
+  return "Ac"
+def el90():
+  return "Th"
+def el91():
+  return "Pa"
+def el92():
+  return "U"
+def el93():
+  return "Np"
+def el94():
+  return "Pu"
+def el95():
+  return "Am"
+def el96():
+  return "Cm"
+def el97():
+  return "Bk"
+def el98():
+  return "Cf"
+def el99():
+  return "Es"
+def el100():
+  return "Fm"
+def el101():
+  return "Md"
+def el102():
+  return "No"
+def el103():
+  return "Lr"
+def el104():
+  return "Rf"
+def el105():
+  return "Db"
+def el106():
+  return "Sg"
+def el107():
+  return "Bh"
+def el108():
+  return "Hs"
+def el109():
+  return "Mt"
+def el110():
+  return "Ds"
+def el111():
+  return "Rg"
+def el112():
+  return "Cn"
+def el113():
+  return "Nh"
+def el114():
+  return "Fl"
+def el115():
+  return "Mc"
+def el116():
+  return "Lv"
+def el117():
+  return "Ts"
+def el118():
+  return "Og"
