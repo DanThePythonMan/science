@@ -1,7 +1,7 @@
 # science
 A python Repo to help with science calculations
 
-#Current Calculators
+# Current Calculators
 * Relative Formula Mass
 * Mol Triangle
 * Surface Area to Volume ratio
